@@ -1,3 +1,0 @@
-streaming
-upToEnd
-	^ rowStream upToEnd

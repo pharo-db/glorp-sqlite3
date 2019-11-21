@@ -1,3 +1,0 @@
-streaming
-next
-	^ rowStream next

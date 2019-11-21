@@ -1,3 +1,0 @@
-accessing
-rowCount
-	^ connection changes
